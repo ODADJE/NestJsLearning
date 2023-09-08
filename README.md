@@ -12,7 +12,7 @@
 
     to install Nestjs
 
-### Creation d'une app Nestjs
+### Creation of Nestjs app
 
 ```
 nest new app_name
