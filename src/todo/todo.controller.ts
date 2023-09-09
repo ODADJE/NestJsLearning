@@ -5,7 +5,7 @@ export class TodoController {
   @Get()
   getTodos() {
     console.log('Recuperer la liste des todos');
-    return 'Liste des TODOS';
+    return 'La liste des Todos';
   }
 
   @Post()
